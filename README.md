@@ -2,5 +2,7 @@
 # LV3-JavaScript
 
 LINK:
+https://web-programiranje-lv3-7vno.onrender.com
+https://github.com/lpoznic/web-programiranje-lv3
 
 Zadaci su dani u predlošku:
